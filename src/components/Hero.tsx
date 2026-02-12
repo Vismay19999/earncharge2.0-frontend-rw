@@ -82,7 +82,7 @@ const Hero = () => {
               <p>
                 Recharge is fast and easy to use. So, a user can look for a
                 suitable recharge plan and complete the recharge in just a few
-                clicks. Hello World
+                clicks.
               </p>
             </div>
             <div>
